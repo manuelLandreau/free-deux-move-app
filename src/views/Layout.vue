@@ -4,7 +4,7 @@
         <div class="container">
             <slot />
         </div>
-        <footer>Test Free2move - Manuel Landreau</footer>
+        <footer class="mt-4 p-5 text-center">Test Free2move - Manuel Landreau</footer>
     </div>
 </template>
 

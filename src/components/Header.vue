@@ -1,9 +1,9 @@
 <template>
-    <nav class="navbar navbar-light bg-light">
+    <nav class="navbar navbar-light bg-light shadow mb-5">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
-                <img src="@/assets/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
-                Test Free2move
+                <img src="@/assets/logo.png" alt="Marvel" width="100" height="40" class="d-inline-block align-text-top">
+                <span class="ms-5">Test Free2move</span>
             </a>
         </div>
     </nav>
