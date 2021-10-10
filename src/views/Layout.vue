@@ -1,11 +1,12 @@
 <template>
-    <div>
+    <div style="min-height: calc(100vh - 72px)">
         <Header />
         <div class="container">
             <slot />
         </div>
-        <footer class="mt-4 p-5 text-center">Test Free2move - Manuel Landreau</footer>
     </div>
+    <hr />
+    <footer class="pb-3 text-center">Test Free2move - Manuel Landreau</footer>
 </template>
 
 <script>
