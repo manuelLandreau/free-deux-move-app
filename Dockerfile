@@ -12,5 +12,5 @@ COPY --from=build-stage /app/dist /usr/share/nginx/html
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 
-# docker build . -t test-tech/free2move-app
-# docker run -p 8080:80 -d test-tech/free2move-app
+# docker build . -t test-tech/free-deux-move-app
+# docker run -p 8080:80 -d test-tech/free-deux-move-app
