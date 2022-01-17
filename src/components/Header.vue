@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <img src="@/assets/logo.png" alt="Marvel" width="100" height="40" class="d-inline-block align-text-top">
-                <span class="ms-5">Test Free2move</span>
+                <span class="ms-5">Test</span>
             </a>
         </div>
     </nav>
